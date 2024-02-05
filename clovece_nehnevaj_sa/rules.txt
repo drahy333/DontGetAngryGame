@@ -1,0 +1,21 @@
+Ovládanie hry Človeče Nehnevaj Sa !
+
+klikaním - najprv treba kliknúť na kocku, potom na figúrku, ktorou chceme pohnúť
+
+Pravidlá hry:
+1. Možnosť výjsť zo štartovacej pozície je hráčovi umožnená iba keď hodí 6ku na kocke.
+2. Ak hráč hodí 6ku, môže hádzať ešte raz.
+3. Ak aktuálny hráč príde na takú pozíciu, na ktorej sa nachádza figurka akéhokoľvek 
+iného hráča, figurka toho hráča sa musí vrátiť do štartovacieho pola (je vyhodená z hry).
+4. Hráč nemôže prísť na takú pozíciu s figúrkou , na ktorej už má inú figúrku, preto je 
+treba zvoliť figúrku ktorou sa pohnúť môže, ak sa nemôže pohnúť nikam žiadnou figúrkou, na rade je ďaľší hráč.
+5. Hráč nemôže hýbať figurkami, ktoré sú už v domčeku (koncové polia), musí hodiť 
+presnú hodnotu, ktorú je treba aby mohol ísť na voľnú pozíciu v domčeku, ak sa 
+mu to nepodarí, na rade ja ďaľší hráč.
+6. Ak hráč hodí 6ku, no na prvom políčku hracej plochy zafarbenom príslušnou farbou (spawn) má figúrku, 
+figúrka v štartovacom poli nemôže prísť do hry.
+7. Vyhráva ten, kto bude mať v domčeku všetky štyri figúrky ako prvý.
+8. Hra končí, keď budú mať všetci hráči figúrky v domčeku (určujú sa všetky poradia hráčov)
+9. Hráči môžu byť maximálne štyria
+10. Hru je možné si uložiť, to znamená, že pri budúcom spustení sa zobrazí možnosť dohrania uloženej hry , ktorá je zmapovaná
+v textovom dokumente save.txt
